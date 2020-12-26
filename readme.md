@@ -1,3 +1,7 @@
+# Bad IP list
+## By DefecivenessYT and HexDev
+
+
 Here's a list of bad IP's that have been used to DDoS online radio stations in the past. If you wish to add some ip's create a PR with proof of DDoSing. I will also include bad ASN's in the lists with ASN in the file title
 
 
