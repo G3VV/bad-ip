@@ -1,5 +1,5 @@
 # Bad IP list
-## By DefecivenessYT and HexDev
+## By DefectivenessYT and HexDev
 
 
 Here's a list of bad IP's that have been used to DDoS online radio stations in the past. 
